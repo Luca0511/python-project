@@ -1,2 +1,4 @@
 class Hotel():
-    pass
+    def room(self)
+    self.bed = comfy
+    
